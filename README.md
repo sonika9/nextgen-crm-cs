@@ -14,4 +14,4 @@ The system is deployed on a cloud-based AWS infrastructure and emphasizes scalab
 * Docker (containerization of services)
 * GitHub Actions (CI/CD pipeline for automated testing and deployment)
 
-<img width="944" height="624" alt="image" src="https://github.com/user-attachments/assets/87ef0e88-7542-49ad-9e82-fb0ab174b9c8" />
+<img width="944" height="624" alt="image" src="https://github.com/user-attachments/assets/e6a996ef-4695-48a4-8bc8-8ee709939aed" />
