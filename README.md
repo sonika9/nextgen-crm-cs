@@ -27,7 +27,7 @@ The system is deployed on a cloud-based AWS infrastructure and emphasizes scalab
 * Docker (containerization of services)
 * GitHub Actions (CI/CD pipeline for automated testing and deployment)
 
-<img width="944" height="624" alt="image" src="https://github.com/user-attachments/assets/e6a996ef-4695-48a4-8bc8-8ee709939aed" />
+<img width="944" height="624" alt="image" src="https://github.com/user-attachments/assets/a3fc6d42-c888-4779-a9d8-32b97f62ade1" />
 
 This design highlights a clean service-oriented architecture where asynchronous processing and caching are used to optimize performance.
 
@@ -59,3 +59,5 @@ This design highlights a clean service-oriented architecture where asynchronous 
     CI/CD: Docker, Github Actions
   </li>
 </ul>
+<img width="1280" height="428" alt="image" src="https://github.com/user-attachments/assets/6cb6de7c-385c-4010-917e-479a390a1881" />
+
